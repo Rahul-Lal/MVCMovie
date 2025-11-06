@@ -1,0 +1,3 @@
+# MVC Movie
+## Following Tutorial
+### [Link](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-9.0&tabs=visual-studio)
